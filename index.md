@@ -6,7 +6,7 @@ layout: default
 #COMP110 Data Analysis Project
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="comp110-analysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="/comp110-analysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 
 ## About Me
@@ -26,13 +26,13 @@ Using Python, I processed the data and created visualizations to find patterns a
 ## Visualizations
 
 ### Pre-Lecture Video Ratings
-![Pre Lecture Histogram](images/pre_hist.png)
+![Pre Lecture Histogram](static/imgs/pre_hist.png)
 
 ### Student Understanding Ratings
-![Understanding Histogram](images/understanding_hist.png)
+![Understanding Histogram](static/imgs/understanding_hist.png)
 
 ### Relationship Between Pre-Lecture Videos and Understanding
-![Scatter Plot](images/scatter.png)
+![Scatter Plot](static/imgs/scatter.png)
 
 ## Conclusion
 
